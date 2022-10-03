@@ -1,0 +1,93 @@
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+C:\Users\RSathielle\Desktop\Proyectos\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+C:\Users\RSathielle\Desktop\Proyectos\Ventanas_que_hice_CMobile_PW_Point\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+C:\Users\RSathielle\Desktop\Proyecto Oficial\SW_CalathusMobile\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.dll
+C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-07-01\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios-2015-10-08\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.dll
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.xml
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+E:\JALCOM\CODE\temp\puerta- 31-julio -2015\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.dll
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.pdb
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\SW_CalathusMobile.xml
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.dll
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\bin\itextsharp.xml
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\ResolveAssemblyReference.cache
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.Resources.resources
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.vbproj.GenerateResource.Cache
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.dll
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.xml
+D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\Servicio_Vacios\SW_CalathusMobile\obj\Debug\SW_CalathusMobile.pdb

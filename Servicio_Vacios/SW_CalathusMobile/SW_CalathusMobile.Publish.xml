@@ -1,0 +1,83 @@
+<publishData>
+  <publishTarget publishUrl="D:\JCADENA\JALCOM\CODE\TEMP\PUBLISH\swweb2\">
+    <file relUrl="bin/itextsharp.xml" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="Web.config" publishTime="05/10/2022 12:35:15" />
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="05/10/2022 13:43:32" />
+    <file relUrl="bin/SW_CalathusMobile.XmlSerializers.dll" publishTime="05/10/2022 13:43:33" />
+    <file relUrl="bin/itextsharp.dll" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="05/10/2022 13:43:32" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="05/10/2022 13:43:32" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 12:15:22" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\JCADENA\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\publi-mob\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="03/22/2022 11:25:11" />
+    <file relUrl="bin/itextsharp.dll" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 12:15:22" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="03/22/2022 11:25:11" />
+    <file relUrl="bin/itextsharp.xml" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="03/22/2022 11:25:11" />
+    <file relUrl="Web.config" publishTime="08/07/2019 12:00:40" />
+  </publishTarget>
+  <publishTarget publishUrl="E:\JALCOM\TEMPFILES\PUBLISH\Servicio_Vacios\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="08/13/2019 14:07:27" />
+    <file relUrl="Web.config" publishTime="08/07/2019 12:00:40" />
+    <file relUrl="bin/itextsharp.dll" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="08/13/2019 14:07:27" />
+    <file relUrl="bin/itextsharp.xml" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="08/13/2019 14:07:27" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 12:15:22" />
+  </publishTarget>
+  <publishTarget publishUrl="E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\PUBLISH\2\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="09/28/2017 13:58:00" />
+    <file relUrl="bin/itextsharp.dll" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 12:15:22" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="09/28/2017 13:58:00" />
+    <file relUrl="bin/itextsharp.xml" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="09/28/2017 13:58:00" />
+    <file relUrl="Web.config" publishTime="09/26/2017 19:31:51" />
+  </publishTarget>
+  <publishTarget publishUrl="E:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\PUBLISH\1\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="09/26/2017 19:37:36" />
+    <file relUrl="Web.config" publishTime="09/26/2017 19:31:51" />
+    <file relUrl="bin/itextsharp.dll" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="09/26/2017 19:37:36" />
+    <file relUrl="bin/itextsharp.xml" publishTime="07/30/2013 16:43:28" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="09/26/2017 19:37:36" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 12:15:22" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\pub-puerta\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="07/18/2013 16:34:33" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 11:15:22" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="07/18/2013 16:34:33" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="07/18/2013 16:34:33" />
+    <file relUrl="Web.config" publishTime="07/05/2013 14:55:31" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\JALCOM\CODE\VACIOS HAND-HELD\VISUAL STUDIO\SERVICIO WEB\pub-pr\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="06/06/2013 18:32:29" />
+    <file relUrl="Web.config" publishTime="05/03/2013 18:25:04" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="06/06/2013 18:32:29" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="06/06/2013 18:32:29" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 11:15:22" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\Servicio_Vacios\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="06/06/2013 15:02:59" />
+    <file relUrl="Web.config" publishTime="05/03/2013 18:25:04" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="06/06/2013 15:02:59" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="06/06/2013 15:02:59" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 11:15:22" />
+  </publishTarget>
+  <publishTarget publishUrl="D:\SW_CalathusMobile\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="04/25/2013 13:31:15" />
+    <file relUrl="Servicio_Vacios.asmx" publishTime="04/12/2013 11:15:22" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="04/25/2013 13:31:15" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="04/25/2013 13:31:15" />
+    <file relUrl="Web.config" publishTime="11/06/2012 16:18:32" />
+  </publishTarget>
+  <publishTarget publishUrl="C:\Users\RSathielle\Desktop\WebSite\">
+    <file relUrl="bin/SW_CalathusMobile.dll" publishTime="11/20/2012 12:44:56" />
+    <file relUrl="bin/SW_CalathusMobile.pdb" publishTime="11/20/2012 12:44:56" />
+    <file relUrl="Service1.asmx" publishTime="11/06/2012 11:02:48" />
+    <file relUrl="bin/SW_CalathusMobile.xml" publishTime="11/20/2012 12:44:56" />
+    <file relUrl="Web.config" publishTime="11/06/2012 16:18:32" />
+  </publishTarget>
+</publishData>

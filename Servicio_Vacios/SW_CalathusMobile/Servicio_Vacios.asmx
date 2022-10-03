@@ -1,0 +1,1 @@
+﻿<%@ WebService Language="VB" CodeBehind="Servicio_Vacios.asmx.vb" Class="SW_CalathusMobile.Servicio_Vacios" %>
